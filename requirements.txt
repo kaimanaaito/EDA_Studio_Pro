@@ -1,0 +1,10 @@
+streamlit
+polars
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+reportlab
