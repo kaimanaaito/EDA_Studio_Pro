@@ -4,7 +4,7 @@
 **EDA Studio Pro** is a web application for fast and intuitive Exploratory Data Analysis (EDA).  
 Simply upload a CSV file, and the app will automatically generate statistical summaries, visualizations, feature engineering, dimensionality reduction, clustering, and even PDF reports — all with a single click.
 
-[![Streamlit App](https://eda-studio-pro.streamlit.app/)
+https://eda-studio-pro.streamlit.app/
 
 ---
 
